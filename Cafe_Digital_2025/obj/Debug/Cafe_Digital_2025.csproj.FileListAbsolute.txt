@@ -1,0 +1,14 @@
+C:\Users\CAMPUSFP\source\repos\Cafe_Digital_2025\Cafe_Digital_2025\bin\Debug\Cafe_Digital_2025.exe.config
+C:\Users\CAMPUSFP\source\repos\Cafe_Digital_2025\Cafe_Digital_2025\bin\Debug\Cafe_Digital_2025.exe
+C:\Users\CAMPUSFP\source\repos\Cafe_Digital_2025\Cafe_Digital_2025\bin\Debug\Cafe_Digital_2025.pdb
+C:\Users\CAMPUSFP\source\repos\Cafe_Digital_2025\Cafe_Digital_2025\obj\Debug\Cafe_Digital_2025.csproj.AssemblyReference.cache
+C:\Users\CAMPUSFP\source\repos\Cafe_Digital_2025\Cafe_Digital_2025\obj\Debug\Cafe_Digital_2025.Carta.resources
+C:\Users\CAMPUSFP\source\repos\Cafe_Digital_2025\Cafe_Digital_2025\obj\Debug\Cafe_Digital_2025.Form1.resources
+C:\Users\CAMPUSFP\source\repos\Cafe_Digital_2025\Cafe_Digital_2025\obj\Debug\Cafe_Digital_2025.Pedidos.resources
+C:\Users\CAMPUSFP\source\repos\Cafe_Digital_2025\Cafe_Digital_2025\obj\Debug\Cafe_Digital_2025.Properties.Resources.resources
+C:\Users\CAMPUSFP\source\repos\Cafe_Digital_2025\Cafe_Digital_2025\obj\Debug\Cafe_Digital_2025.csproj.GenerateResource.cache
+C:\Users\CAMPUSFP\source\repos\Cafe_Digital_2025\Cafe_Digital_2025\obj\Debug\Cafe_Digital_2025.csproj.CoreCompileInputs.cache
+C:\Users\CAMPUSFP\source\repos\Cafe_Digital_2025\Cafe_Digital_2025\obj\Debug\Cafe_Digital_2025.exe
+C:\Users\CAMPUSFP\source\repos\Cafe_Digital_2025\Cafe_Digital_2025\obj\Debug\Cafe_Digital_2025.pdb
+C:\Users\CAMPUSFP\source\repos\Cafe_Digital_2025\Cafe_Digital_2025\obj\Debug\Cafe_Digital_2025.Cartel.resources
+C:\Users\CAMPUSFP\source\repos\Cafe_Digital_2025\Cafe_Digital_2025\obj\Debug\Cafe_Digital_2025.exe.config
